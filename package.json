@@ -7,6 +7,18 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "shreyans",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shreyp/class13.3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shreyp/class13.3/issues"
+  },
+  "homepage": "https://github.com/Shreyp/class13.3#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "node-github": "0.0.3"
+  }
 }
